@@ -63,6 +63,10 @@ header {
     height: 50px;
 }
 
+.band-icon {
+    border-radius: 50%;
+}
+
 .band-photo {
     margin: 0;
     height: 500px;
