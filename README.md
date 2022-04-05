@@ -1,2 +1,2 @@
-# jte6p.github.io
-Website for Theocles and The Scruffs
+# bookofscruff.github.io
+Website for Book of Scruff
